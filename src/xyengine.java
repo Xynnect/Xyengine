@@ -17,4 +17,11 @@ public abstract class xyengine {
     public static void helloWorldExample2(){
         System.out.print("hello world");
     }
+    /**
+     *javadoc test
+     */
+
+public static void helloWorldExample(String stringToBeAppended){
+        System.out.print("hello world" + stringToBeAppended);
+    }
 }
