@@ -7,6 +7,14 @@ public abstract class xyengine {
 
 
     public static void helloWorldExample(){
-System.out.print("hello world");
+        System.out.print("hello world");
+    }
+
+    public static void helloWorldExample1(){
+        System.out.print("hello world");
+    }
+
+    public static void helloWorldExample2(){
+        System.out.print("hello world");
     }
 }

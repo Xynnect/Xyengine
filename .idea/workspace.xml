@@ -28,11 +28,15 @@
       <file leaf-file-name="xyengine.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/xyengine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3411371" vertical-offset="0" max-vertical-offset="598">
-              <caret line="12" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.4548495" vertical-offset="0" max-vertical-offset="598">
+              <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
               <folding>
                 <element signature="e#255#256#0" expanded="true" />
-                <element signature="e#294#295#0" expanded="true" />
+                <element signature="e#302#303#0" expanded="true" />
+                <element signature="e#348#349#0" expanded="true" />
+                <element signature="e#395#396#0" expanded="true" />
+                <element signature="e#441#442#0" expanded="true" />
+                <element signature="e#488#489#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -367,11 +371,15 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/xyengine.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3411371" vertical-offset="0" max-vertical-offset="598">
-          <caret line="12" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.4548495" vertical-offset="0" max-vertical-offset="598">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
           <folding>
             <element signature="e#255#256#0" expanded="true" />
-            <element signature="e#294#295#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#348#349#0" expanded="true" />
+            <element signature="e#395#396#0" expanded="true" />
+            <element signature="e#441#442#0" expanded="true" />
+            <element signature="e#488#489#0" expanded="true" />
           </folding>
         </state>
       </provider>
