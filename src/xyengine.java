@@ -50,4 +50,42 @@ public static void logGdx(String stringToBeLogged){
     public static void logGdx(String logParameter,int stringToBeLogged){
         Gdx.app.error(logParameter,"" + stringToBeLogged);
     }
+
+public static void logGdx(float stringToBeLogged){
+        Gdx.app.error("xyengineLogging","" + stringToBeLogged);
+    }
+    public static void logGdx(double stringToBeLogged){
+        Gdx.app.error("xyengineLogging","" + stringToBeLogged);
+    }
+    public static void logGdx(boolean stringToBeLogged){
+        Gdx.app.error("xyengineLogging","" + stringToBeLogged);
+    }
+    public static void logGdx(String logParameter,float stringToBeLogged){
+        Gdx.app.error(logParameter,"" + stringToBeLogged);
+    }
+    public static void logGdx(String logParameter,double stringToBeLogged){
+        Gdx.app.error(logParameter,"" + stringToBeLogged);
+    }
+    public static void logGdx(String logParameter,boolean stringToBeLogged){
+        Gdx.app.error(logParameter,"" + stringToBeLogged);
+    }
+
+public static void log(float stringToBeLogged){
+        Log.e("xyengineLogging","" + stringToBeLogged);
+    }
+    public static void log(double stringToBeLogged){
+        Log.e("xyengineLogging","" + stringToBeLogged);
+    }
+    public static void log(boolean stringToBeLogged){
+        Log.e("xyengineLogging","" + stringToBeLogged);
+    }
+    public static void log(String logParameter,float stringToBeLogged){
+        Log.e(logParameter, "" + stringToBeLogged);
+    }
+    public static void log(String logParameter,double stringToBeLogged){
+        Log.e(logParameter, "" + stringToBeLogged);
+    }
+    public static void log(String logParameter,boolean stringToBeLogged){
+        Log.e(logParameter, "" + stringToBeLogged);
+    }
 }
