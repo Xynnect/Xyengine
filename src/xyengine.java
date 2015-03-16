@@ -25,29 +25,29 @@ public static void helloWorldExample(String stringToBeAppended){
         System.out.print("hello world" + stringToBeAppended);
     }
 
-public void log(String stringToBeLogged){
+public static void log(String stringToBeLogged){
         Log.e("xyengineLogging",stringToBeLogged);
     }
-    public void log(int stringToBeLogged){
+    public static void log(int stringToBeLogged){
         Log.e("xyengineLogging","" + stringToBeLogged);
     }
-    public void log(String logParameter,String stringToBeLogged){
+    public static void log(String logParameter,String stringToBeLogged){
         Log.e(logParameter,stringToBeLogged);
     }
-    public void log(String logParameter,int stringToBeLogged){
+    public static void log(String logParameter,int stringToBeLogged){
         Log.e(logParameter,"" + stringToBeLogged);
     }
 
-public void logGdx(String stringToBeLogged){
+public static void logGdx(String stringToBeLogged){
         Gdx.app.error("xyengineLogging",stringToBeLogged);
     }
-    public void logGdx(int stringToBeLogged){
+    public static void logGdx(int stringToBeLogged){
         Gdx.app.error("xyengineLogging","" + stringToBeLogged);
     }
-    public void logGdx(String logParameter,String stringToBeLogged){
+    public static void logGdx(String logParameter,String stringToBeLogged){
         Gdx.app.error(logParameter,stringToBeLogged);
     }
-    public void logGdx(String logParameter,int stringToBeLogged){
+    public static void logGdx(String logParameter,int stringToBeLogged){
         Gdx.app.error(logParameter,"" + stringToBeLogged);
     }
 }
