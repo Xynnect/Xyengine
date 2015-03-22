@@ -1,7 +1,7 @@
 Option Explicit
 Dim Excel, GetMessagePos, x, y, Count, Position
 
-Do While Count < 10
+Do While Count < 10000000
  Set Excel = Wscript.CreateObject("Excel.Application")
 
  GetMessagePos = excel.ExecuteExcel4Macro("CALL(""user32"",""GetMessagePos"",""J"")")
